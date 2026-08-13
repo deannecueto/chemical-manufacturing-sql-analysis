@@ -125,9 +125,9 @@ chemical-manufacturing-sql-analysis/
 └── dashboards/
     └── chemical_manufacturing_dashboard.pbix
     └── dashboard_powerbi.png
+```
 
 \---
-
 ## Future Improvements
 * Expand the dataset with more realistic operational variability.
 * Incorporate additional business KPIs and trend analyses.
